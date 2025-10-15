@@ -1,0 +1,16 @@
+estrategia,tamanho_vetor,qtde_dados,insercao_ms,busca_ms,colisoes_insercao,colisoes_busca,extra
+Encadeamento (Multiplicacao),1000,10000,1.721,1.052,25243,50216,Top3 listas: 22 | 22 | 21
+Encadeamento (Multiplicacao),1000,100000,47.065,124.842,2500063,5003064,Top3 listas: 132 | 130 | 129
+Encadeamento (Multiplicacao),1000,1000000,21283.598,4086.164,249784227,499986166,Top3 listas: 1117 | 1087 | 1084
+Encadeamento (Multiplicacao),10000,10000,0.157,0.123,2545,5050,Top3 listas: 6 | 6 | 6
+Duplo Hashing (Rehashing),10000,10000,1.336,1.351,64181,84181,Gaps: min=0 | max=1 | média=0.00
+Sondagem Quadratica (Rehashing),10000,10000,2.078,2.433,62103,182103,Gaps: min=0 | max=1 | média=0.00
+Encadeamento (Multiplicacao),10000,100000,11.059,14.943,249183,499835,Top3 listas: 24 | 23 | 23
+Encadeamento (Multiplicacao),10000,1000000,2271.604,4964.460,24978157,49995964,Top3 listas: 136 | 136 | 135
+Encadeamento (Multiplicacao),100000,10000,0.160,0.044,267,530,Top3 listas: 3 | 3 | 3
+Duplo Hashing (Rehashing),100000,10000,0.119,0.165,516,516,Gaps: min=0 | max=73 | média=9.00
+Sondagem Quadratica (Rehashing),100000,10000,0.362,0.088,530,530,Gaps: min=0 | max=90 | média=9.00
+Encadeamento (Multiplicacao),100000,100000,3.111,1.900,24950,49971,Top3 listas: 8 | 8 | 8
+Duplo Hashing (Rehashing),100000,100000,20.495,21.087,756501,2956384,Gaps: min=0 | max=1 | média=0.00
+Sondagem Quadratica (Rehashing),100000,100000,31.223,34.441,805656,7405564,Gaps: min=0 | max=1 | média=0.00
+Encadeamento (Multiplicacao),100000,1000000,249.509,285.025,2494977,4996518,Top3 listas: 27 | 25 | 25
