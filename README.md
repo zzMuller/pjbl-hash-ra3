@@ -1,6 +1,6 @@
-# Relatório — Análise de Tabelas Hash em Java
+# Relatório — PJBL HASH
 
-> **Disciplina / RA3** — Implementação e análise de desempenho de diferentes tabelas hash em Java, com variações de função hash e estratégias de tratamento de colisão.
+> **Resolução de Problemas Estruturados em Computação / RA3** — Implementação e análise de desempenho de diferentes tabelas hash em Java, com variações de função hash e estratégias de tratamento de colisão.
 
 ---
 
