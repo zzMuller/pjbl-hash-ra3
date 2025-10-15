@@ -1,8 +1,10 @@
 # Relatório — PJBL HASH
 
 > **Resolução de Problemas Estruturados em Computação / RA3** — Implementação e análise de desempenho de diferentes tabelas hash em Java, com variações de função hash e estratégias de tratamento de colisão.
-
 ---
+## Integrantes:
+- Bernardo Schlottag Muller
+- Enzo Wasko Amorim
 
 ## 1) Implementação
 O projeto foi desenvolvido em **Java 21**, e segue o modelo solicitado pelo professor, contendo duas versões do código:
